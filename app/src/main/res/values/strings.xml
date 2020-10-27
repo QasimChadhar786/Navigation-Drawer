@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="hello_blank_fragment">hello blank fragment</string>
+    <string name="hello_logout_fragment">hello logout fragment</string>
+    <string name="hello_school_fragment">hello school fragment</string>
+    <string name="hello_setting_fragment">hello setting fragment</string>
+    <string name="hello_timeline_fragment">hello timeline fragment</string>
+    <string name="hello_work_fragment">hello work fragment</string>
+    <string name="hello_home_fragment">hello home fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
